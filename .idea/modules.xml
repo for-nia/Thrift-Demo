@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Thrift-Demo.iml" filepath="$PROJECT_DIR$/Thrift-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Thrift-Demo.iml" filepath="$PROJECT_DIR$/.idea/modules/Thrift-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Thrift-Demo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Thrift-Demo_main.iml" group="Thrift-Demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Thrift-Demo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Thrift-Demo_test.iml" group="Thrift-Demo" />
     </modules>
   </component>
 </project>
